@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "195433126077",
+    "firebase_url": "https://canlisohbet-fe754.firebaseio.com",
+    "project_id": "canlisohbet-fe754",
+    "storage_bucket": "canlisohbet-fe754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195433126077:android:59f31f56017adc52f17fd4",
+        "android_client_info": {
+          "package_name": "com.baranalpaslandogan.canli_sohbet3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195433126077-adare172er0tv2n8dbdkees9f342knd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baranalpaslandogan.canli_sohbet3",
+            "certificate_hash": "b06ee78fa4516c2c4a61be6f8c2574a4c79c0e9a"
+          }
+        },
+        {
+          "client_id": "195433126077-ievs0nbfconrqae49ckurasbf7pphuhe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baranalpaslandogan.canli_sohbet3",
+            "certificate_hash": "526d45b9404b708127b291c97e383343ba205d0a"
+          }
+        },
+        {
+          "client_id": "195433126077-99ivstmg1mbid451d5m5kd8r3khqeub4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiO23m2pQNXoi28fMBUPGk1CyT1jbFCy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195433126077-99ivstmg1mbid451d5m5kd8r3khqeub4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
